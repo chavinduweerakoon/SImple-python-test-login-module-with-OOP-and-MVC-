@@ -1,0 +1,23 @@
+#install virtualenv
+pip install virtualenv
+
+#cd scripts folder
+
+#activate virtualenv
+.\env\Scripts\activate
+
+#deactivate virtualenv
+.\env\Scripts\deactivate
+
+for common troubleshooting with mysql connector and virtualenv
+https://overiq.com/mysql-connector-python-101/installing-mysql-connector-python/
+
+https://overiq.com/mysql-connector-python-101/installing-mysql-connector-python/
+
+https://stackoverflow.com/questions/60718123/modulenotfounderror-when-importing-mysql-connector-in-for-python-vs-code
+
+https://www.a2hosting.com/kb/developer-corner/mysql/connecting-to-mysql-using-python
+
+
+#mysql-connector-install
+https://dev.mysql.com/doc/connector-python/en/connector-python-installation-binary.html
